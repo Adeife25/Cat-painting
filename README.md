@@ -25,4 +25,6 @@ Creating a clean, centered layout for visual presentation
 
 🚀 Live Preview
 👉 Click here to view Cat Painting
-(Replace with your actual GitHub Pages link)
+https://adeife25.github.io/Cat-painting/
+
+
